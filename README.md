@@ -70,16 +70,25 @@ learning step by step and building real projects along the way.
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srishtisonawane2007&theme=github-compact&hide_border=true"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/srishtisonawane2007/srishtisonawane2007/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
-
 ## 🌐 Let's Connect  
 
-<p align="left">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
 </p>
 
