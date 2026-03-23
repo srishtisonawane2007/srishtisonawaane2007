@@ -79,7 +79,7 @@ learning step by step and building real projects along the way.
 ## 🌐 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/srisht">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;
